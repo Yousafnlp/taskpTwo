@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c50878c.css",
+    "main.js": "/static/js/main.170cd3ab.js",
+    "static/js/787.5514e4e3.chunk.js": "/static/js/787.5514e4e3.chunk.js",
+    "static/media/status-bg.png": "/static/media/status-bg.14d225649bf6573d7bf6.png",
+    "static/media/telegram-cloud-document-4- 1.jpg": "/static/media/telegram-cloud-document-4-5900135907549253113 1.b71b858c6c6820c1fcd9.jpg",
+    "index.html": "/index.html",
+    "main.8c50878c.css.map": "/static/css/main.8c50878c.css.map",
+    "main.170cd3ab.js.map": "/static/js/main.170cd3ab.js.map",
+    "787.5514e4e3.chunk.js.map": "/static/js/787.5514e4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c50878c.css",
+    "static/js/main.170cd3ab.js"
+  ]
+}
